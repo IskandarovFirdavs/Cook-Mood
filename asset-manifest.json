@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cook-Mood/static/css/main.e1ebfe9c.css",
+    "main.js": "/Cook-Mood/static/js/main.acacca22.js",
+    "index.html": "/Cook-Mood/index.html",
+    "main.e1ebfe9c.css.map": "/Cook-Mood/static/css/main.e1ebfe9c.css.map",
+    "main.acacca22.js.map": "/Cook-Mood/static/js/main.acacca22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1ebfe9c.css",
+    "static/js/main.acacca22.js"
+  ]
+}
